@@ -1,0 +1,11 @@
+#textbox { 
+	font-size: 30pt;
+	font-weight: bold;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-45% , -130%);
+	display: block;
+	padding: 20px;
+	border-block: 1px solid salmon;
+}
